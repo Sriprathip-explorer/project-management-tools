@@ -1,4 +1,4 @@
-# Nebula PM — Split Frontend / Backend
+# SRI PROJECT MANAGEMENT TOOLS — Split Frontend / Backend
 
 ## Structure
 - `frontend/` — Next.js + Tailwind UI.
